@@ -1,0 +1,4 @@
+python 
+range()函数
+range(a) from 0 to (a-1)
+range(a,b) from a to (b-1)
